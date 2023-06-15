@@ -6,4 +6,4 @@ https://unity.com/ja/releases/editor/archive#download-archive-2021
 Unity2020.3.22f以上のバージョンをダウンロードしてください。
 
 Unityを起動後
-解凍したリポジトリのパッケージを起動することで全てのデータを見ることが出来ます。
+ダウンロードしたパッケージを起動することで全てのデータを見ることが出来ます。
